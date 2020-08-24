@@ -6,3 +6,7 @@
 user: admin:admin  role: admin
 user:pan:pan     role:user
 
+
+
+
+![avatar](https://panjingping.s3-ap-southeast-1.amazonaws.com/assets/images/spring-boot-security2.png)
